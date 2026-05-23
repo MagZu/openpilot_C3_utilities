@@ -21,7 +21,6 @@ Paste any installer link into the field and press **Check** (or Enter). Results 
 
 - **Repository** — description, fork parent, visibility (public/private), stars/forks
 - **Branch & Commit** — branch name, short SHA, commit message, author, date
-- **Panda Firmware** — sizes of `panda.bin.signed` and `bootstub.panda.bin` with a bootstub address hint (`0x2001FFFC` vs `0x2003FFFC`)
 - **Submodules** — all submodule URLs and tracked branches from `.gitmodules`
 
 ## Requirements
